@@ -140,19 +140,19 @@
 
 ## 三、文档导航
 
-| 文件 | 内容 | 状态 |
+| 知识专题 | 主要内容 | 状态 |
 |---|---|---|
-| Vue基础知识.md | Vue 基本语法与核心概念 | 待整理 |
-| Vue2与Vue3区别.md | 两个版本的核心差异 | 待整理 |
-| CompositionAPI.md | Vue3 组合式 API | 待整理 |
-| 响应式原理.md | Proxy、依赖收集与更新 | 待整理 |
-| 生命周期.md | 生命周期及执行时机 | 待整理 |
-| 组件通信.md | Props、Emit、Slots 等 | 待整理 |
-| VueRouter.md | 路由配置与导航守卫 | 待整理 |
-| Pinia.md | 状态管理 | 待整理 |
-| 虚拟DOM与Diff.md | 虚拟 DOM 和 Diff 算法 | 待整理 |
-| Vue性能优化.md | 性能优化方法 | 待整理 |
-| Vue项目实践.md | 项目架构与开发实践 | 待整理 |
+| [Vue基础知识](./Vue基础知识.md) | Vue 基础语法与核心概念 | 已整理 |
+| [Vue2与Vue3区别](./Vue2与Vue3区别.md) | Vue 版本差异与迁移 | 已整理 |
+| [Composition API](./CompositionAPI.md) | Vue3 组合式 API | 已整理 |
+| [响应式原理](./响应式原理.md) | Proxy、依赖收集与调度 | 已整理 |
+| [生命周期](./生命周期.md) | 生命周期与副作用管理 | 已整理 |
+| [组件通信](./组件通信.md) | Props、Emits、Slots | 已整理 |
+| [Vue Router](./VueRouter.md) | 路由与权限管理 | 已整理 |
+| [Pinia](./Pinia.md) | 状态管理 | 已整理 |
+| [虚拟 DOM 与 Diff](./虚拟DOM与Diff.md) | 渲染机制和 Diff 算法 | 已整理 |
+| [Vue 性能优化](./Vue性能优化.md) | 页面与运行时优化 | 已整理 |
+| [Vue 项目实践](./Vue项目实践.md) | 架构设计与开发实践 | 已整理 |
 
 ## 四、推荐学习顺序
 
